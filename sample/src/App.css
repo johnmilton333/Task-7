@@ -1,0 +1,407 @@
+
+
+/*login side navbar */
+
+.small{
+  width: 50%;
+  height: 85px;
+  background-color: black;
+  color:white;
+  float: right;
+  position: relative;
+  border-radius: 20px;
+  padding: 10px;
+  margin-top: 12px;
+
+ /*nav tabs */ 
+  
+}
+.tech{
+  width: 50%;
+  height: 85px;
+  background-color: #ff6600;
+  color: white;
+  border-radius: 5px;
+  float: left;
+  font-weight: bolder;
+  font-size: 18px;
+ 
+  
+  /*nav background */  
+}
+.nav1{
+  width: 100%;
+  height: 107px;
+  background-color: black;
+  color: #ff6600;
+  border-radius: 7px;
+ 
+  border-bottom: 6px solid #ff6600;
+
+}
+
+ /*login backside */ 
+ .blue{
+  width: 100%;
+  height: 50px;
+  top: 10px;
+ 
+  
+  position: absolute;
+  margin-left: 10px; 
+ 
+ }
+
+ /*section1 */ 
+ .hurry{
+  width: 90%;
+  height: 1100px;
+  background:white;
+  border-bottom: 6px solid b;
+ }
+
+ /*section1  label boxes*/ 
+
+ .label1{
+  width: 80%;
+  height: 120px;
+  background: white;
+  margin-top: 30px;
+  
+  font-size: larger;
+  font-weight: 900;
+  border-radius: 20px;
+  border-bottom: 6px solid black;
+
+ }
+ .label1 h1{
+ 
+  color: #ff6600;
+  font-weight: bolder;
+  font-size: 80px;
+  
+
+
+ }
+ 
+
+ .label2{
+  width: 100%;
+  height: 120px;
+  background:  white;
+  background-image: url(./image/images\ \(2\).png);
+  border-radius: 20px;
+  background-position: left;
+  margin-top: 35px;
+ 
+
+ }
+
+ .label2 h1{
+  color:white;
+  font-weight: bolder;
+  font-size: 80px;
+ }
+
+
+
+
+
+
+
+
+ .label{
+  width: 50%;
+  height: 250px;
+  background:white;
+  border-radius: 20px;
+  
+ }
+
+ /*section1  contant  boxes*/ 
+ .contant{
+  width: 70%;
+  height: 500px;
+  background:white;
+  border-radius: 20px;
+  padding: 0.1rem;
+ margin-top: 35px;
+  
+ 
+  
+ }
+ .contant1{
+  width: 50%;
+  height: 85px;
+  background: black;
+  margin-top: 80px;
+  border-radius: 20px ;
+  padding: 7px;
+  margin-left: 25px;
+ 
+ }
+
+ .contant1 h4{
+  color: #ff6600;
+  font-weight: bolder;
+  font-size: 20px;
+
+  margin-top: 20px;
+  margin-left: 5px;
+
+
+ }
+
+
+
+
+ .contant2{
+  width: 50%;
+  height: 140px;
+  background: black;
+  margin-top: 20px;
+  border-radius: 20px;
+  padding: 1rem;
+  margin-left: 20px;
+ }
+
+
+ .contant2 h5{
+  color: white;
+  font-weight: bolder;
+  font-size: 15px;
+ 
+  text-align: justify;
+
+
+
+ }
+ .contant2 h4{
+  color: white;
+  font-weight: bolder;
+  font-size: 15px;
+ 
+  text-align: justify;
+
+
+
+ }
+ .contant2 h3{
+  color: white;
+  font-weight: bolder;
+  font-size: 15px;
+ 
+  text-align: justify;
+
+
+
+ }
+
+
+ .contant3{
+  width: 30%;
+  height: 85px;
+  background:  #ff6600;
+  border-radius: 20px;
+  padding: 2px;
+  margin-top: 25px;
+ 
+  margin-left: 95px;
+ 
+ }
+ .contant3 h4{
+ 
+
+  color: black;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 20px;
+ 
+ 
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ;
+
+ }
+
+
+  /*section1  contant  tabs*/ 
+ .tabs{
+  width: 100%;
+  height: 145px;
+  background:#000;
+  margin-top: 10px;
+  border-radius: 20px;
+  margin-left: 130px;
+ }
+ .tabs1{
+  width: 22%;
+  height: 100px;
+  background: white;
+  float: left;
+  margin-top: 25px;
+  padding: 22px;
+  border-radius: 20px;
+  margin-left: 22px;
+  
+    border-bottom: 6px solid #ff6600;
+ 
+ }
+ .tabs1 h4{
+  color:black;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+  margin-top: -5px;
+ 
+  
+ }
+ .tabs1 h5{
+  color: #ff6600;
+  font-weight: bolder;
+  font-size: 22px;
+  text-align: center;
+ 
+ }
+
+
+
+
+
+ .tabs2{
+  width: 22%;
+  height: 100px;
+  background:  white;
+  float: left;
+  margin-top: 25px;
+  border-bottom: 6px solid #ff6600;
+  border-radius: 20px;
+  margin-left: 22px;
+ }
+
+
+
+ .tabs2 h4{
+  color:black;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 15px;
+
+  
+ }
+ .tabs2 h5{
+  color: #ff6600;
+  font-weight: bolder;
+  font-size: 22px;
+  text-align: center;
+ 
+ }
+
+
+
+
+
+ .tabs3{
+  width: 22%;
+  height: 100px;
+  background: white;
+  float: left;
+  margin-top: 25px;
+  border-bottom: 6px solid #ff6600;
+  border-radius: 20px;
+  margin-left: 25px;
+ }
+
+
+ .tabs3 h4{
+  color: black;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 15px;
+ 
+
+  
+  
+ }
+ .tabs3 h5{
+  color: #ff6600;
+  font-weight: bolder;
+  font-size: 22px;
+  text-align: center;
+ 
+ }
+ 
+
+
+
+
+
+
+
+ .tabs4{
+  width: 22%;
+  height: 100px;
+  background:  white;
+  float: left;
+  margin-top: 25px;
+  border-bottom: 6px solid #ff6600;
+  border-radius: 20px;
+  margin-left: 25px;
+ }
+.tabs4 h4{
+  color:black;
+  font-weight: bolder;
+  font-size: 25px;
+  text-align: center;
+  margin-top: 15px;
+ 
+
+  
+  
+ }
+ .tabs4 h5{
+  color: #ff6600;
+  font-weight: bolder;
+  font-size: 22px;
+  text-align: center;
+ 
+ }
+
+
+
+
+
+
+ .left{
+  background:white;
+
+ }
+ .right{
+  width: 38%;
+  height: 430px;
+  background:  white;
+  background-image: url(./image/ktm-select-model-gp-edition-1670841965124.webp);
+  margin-left: 700px;
+  position: absolute;
+  margin-top: -170px;
+  background-position: center;
+  background-size: cover;
+  border-bottom: 6px solid black;
+  border-radius: 20px;
+
+  
+ }
+ .button10{
+  background: black;
+ }
+ .first{
+  color: #ff6600;
+  background: #ff6600;
+  border-radius: 25px;
+ }
+ .navbar {
+  color:none;
+  background: #000;
+  border-radius: 25px;
+ }

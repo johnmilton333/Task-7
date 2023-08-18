@@ -1,0 +1,65 @@
+.heading{
+    width: 100%;
+    height: 600px;
+    background: lightgreen;
+    position: relative;
+}
+
+.one1{
+    width: 25%;
+    height: 250px;
+    background:lightcoral;
+    float: left;
+    
+
+}
+.one2{
+    width: 24%;
+    height: 250px;
+    background:lightcoral;
+    float: left;
+    margin-left: 10px;
+
+}
+.one3{
+    width: 24%;
+    height: 250px;
+    background:lightcoral;
+    float: left;
+    
+
+}
+.one4{
+    width: 26.3%;
+    height: 250px;
+    background:lightcoral;
+    float: left;
+
+}
+
+
+
+.small1{
+    width: 20%;
+    height: 250px;
+    background: lightpink;
+    left: 200px;
+    position: absolute;
+    
+    
+}
+.small2{
+
+    width: 20%;
+    height: 250px;
+    background: lightgoldenrodyellow;
+    left: 950px;
+    position: absolute;
+    
+    
+}
+/*section2 */
+/* <Section2/>
+
+import Section2 from './Section2';
+import './section2.css'; */
